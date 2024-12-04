@@ -6,7 +6,7 @@ import Hero from "../components/Hero";
 import Footer from "../components/Footer";
 const Home = () => {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-red-600 via-yellow-300 to-black flex flex-col">
+    <div className="min-h-screen bg-gradient-to-b from-blue-600 via-green-300 to-green-500 flex flex-col">
       {/* Header */}
       <Header />
       {/* Hero */}
